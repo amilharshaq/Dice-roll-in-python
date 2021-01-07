@@ -13,5 +13,5 @@ def dice_roll():
     Roll_the_dice = "yes"
     while Roll_the_dice == "yes" or "y":
         display_dice()
-        Roll_the_dice = input('Enter "yes" or "y" to Roll the Dice : ')
+        Roll_the_dice = input('Enter "yes" or "y" to Roll the Dice : ') 
 dice_roll()    
